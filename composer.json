@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "kahlan/kahlan": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brunty\\": "src/"
+        }
+    }
+}
